@@ -153,4 +153,4 @@ template point_add(nBits){
 
     
 }
-component main = point_add(255);   
+// component main = point_add(255);   
